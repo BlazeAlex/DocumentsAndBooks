@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "KT5n8oBYRGF7W33JCswrdgUuYtqoSMKMRNWyt/r0cejalNGAm7TLCZiWNlWB7yKLR1WtJynAgZJdgjIeDALwFQ==",
+  "success": true,
+  "projectFilePath": "D:\\DoingProgrammer\\Template\\DocumentsAndBooks\\DocumentsAndBooks\\DocumentsAndBooks.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1803",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "正在通过 “HTTP” 源“http://58.215.120.244:8091/repository/nuget-group/index.json”运行“restore”操作。将来的版本中将删除非 HTTPS 访问权限。请考虑迁移到 “HTTPS” 源。"
+    }
+  ]
+}
